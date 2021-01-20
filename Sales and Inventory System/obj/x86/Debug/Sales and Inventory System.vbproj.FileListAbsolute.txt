@@ -1,0 +1,75 @@
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.xml
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\FlashControlV71.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\bin\Debug\stdole.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbprojAssemblyReference.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmBillingReport.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmChangePassword.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomer.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord1.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord2.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmCustomersRecord3.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategory.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInventoryCategoryRecord.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInvoice.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmInVoiceNo.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLoginDetails.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmMain.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrder.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrderRecord1.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrders.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmOrdersReport.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmPasswordRecovery.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.FrmPrintOptions.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProduct.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord1.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmProductsRecord2.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSearchProduct1.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationDetails.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistrationReport.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSales.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmAbout.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmLogin.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesRecord1.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSalesReport.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSplashScreen.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStock.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmStockDetails1.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmSystemInfo.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendor.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmVendorRecords1.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.Resources.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales_and_Inventory_System.frmRegistration.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbproj.GenerateResource.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbproj.CoreCompileInputs.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.vbproj.CopyComplete
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.exe
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.xml
+C:\Users\Personal-01\Desktop\Sourcecodester\Sales and Inventory System\Sales and Inventory System\obj\x86\Debug\Sales and Inventory System.pdb
