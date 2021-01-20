@@ -1,4 +1,7 @@
 # Sales and Inventory System using VB.NET and SQL Server 
+<div align="center">
+	<img src="sis_kapco.png" alt="Banner Image" />
+</div>
 
 ### Description
 
